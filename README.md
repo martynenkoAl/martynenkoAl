@@ -1,3 +1,7 @@
+<h2 align="center"><b>Привет! 👋
+<br>
+  Меня зовут Алина. Я начинающий frontend-разработчик</b>
+
 ### Привет! 👋   Меня зовут Алина, я начинающий frontend разработчик.   
 
 ### 🌱 О себе:
@@ -24,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
 </div>
 
 ### ⚡ Пройденные курсы:
