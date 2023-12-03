@@ -5,7 +5,7 @@
 ### 🌱 О себе:
 Много лет работаю онлайн-репетитором английского языка. Год назад решила попробовать себя в веб-разработке. Сначала это было просто хобби, теперь мечтаю стать настоящим профессионалом с большим опытом работы и кучей крутых проектов. 
 
-### 🔧 Технологии:
+### 🔧 Технологии и инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
@@ -17,11 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-</div>
-
-### Общие:
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
@@ -37,7 +32,7 @@
 - stepik.org/Redux для управления состоянием React-приложений (М. Непомнящий)
 - stepik.org/TypeScript для современной разработки (М. Непомнящий) (в процессе)
 
-### 🔭 Codewars:
+### 🤓 Codewars:
 
 ![codewars](https://www.codewars.com/users/martynenkoAl/badges/large)
 
