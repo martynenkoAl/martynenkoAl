@@ -3,7 +3,7 @@
   Меня зовут Алина. Я начинающий frontend-разработчик.</b></h2> 
 
 <div align="center">
-  <img src="https://sun9-44.userapi.com/impg/xCRVpqOFPINzfxDI0BHCUxAafXGl23k999WBAA/tW6-f_7WZUs.jpg?size=604x350&quality=96&sign=53660196977f244658670d1539d482fe&type=album" width="600" alt="Веб-разработчица">
+  <img src="https://portal.edu.asu.ru/pluginfile.php/409642/course/overviewfiles/6de10fff994dd378635dafbbaaee9b07.gif" width="600" alt="Веб-разработчица">
 </div>
 
 
