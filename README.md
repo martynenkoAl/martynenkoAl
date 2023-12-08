@@ -1,6 +1,6 @@
 <h2 align="center"><b>Привет! 👋
 <br>
-  Меня зовут Алина. Я начинающий frontend-разработчик.</b></h2> 
+  Меня зовут Алина. Я frontend-разработчик.</b></h2> 
 
 <div align="center">
   <img src="https://portal.edu.asu.ru/pluginfile.php/409642/course/overviewfiles/6de10fff994dd378635dafbbaaee9b07.gif" width="600" alt="Веб-разработчица">
